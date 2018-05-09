@@ -1,4 +1,3 @@
-@@ -0,0 +1,89 @@
 <!DOCTYPE html>
 <html style="height: 100%">
    <head>
@@ -87,4 +86,4 @@ if (option && typeof option === "object") {
 }
        </script>
    </body>
-</html> 
+</html>
